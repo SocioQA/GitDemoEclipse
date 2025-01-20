@@ -13,6 +13,7 @@ public class Login {
 //		driver.navigate().to("https://appb.myspotsaver.com");
 //		driver.manage().window().maximize();
 		System.out.println("Learning git github");
+		System.out.println("Push code on new branch");
 	}
 
 }
